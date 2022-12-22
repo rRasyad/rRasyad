@@ -1,6 +1,10 @@
 ### Hello there, I'm Rasyad 👋 
 
-I'm a Developer and Student for now
+I'm a Student and also a Developer
 
 **Contacts:**
 
+Instagram: [akrsyd_][instagram]
+
+
+[instagram]: https://www.instagram.com/akrsyd_/
