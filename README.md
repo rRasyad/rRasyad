@@ -1,15 +1,15 @@
-### Hi there 👋
+### Hello there, I'm Rasyad 👋 
 
-**rRasyad/rRasyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer and Student for now
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning about Quasar and Laravel Api
+- 👯 I’m looking to collaborate with other Developer (i wanna learn more about Api😆)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### You can contact me on:
 
+<!--
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+![fa-crown](fa-crown.svg)
+<img src="fa-crown.svg" width="50" height="50">
+<i class="fa-brands fa-discord"></i>
+-->
